@@ -1,0 +1,7 @@
+git init 
+git remote add origin https://github.com/sPaudel544/BCAlab2080
+git checkout -b rohan
+git add Bca_Lab_Answer.txt
+git commit -m "rohan branch created"
+git push origin main
+git merge branch1 rohan
